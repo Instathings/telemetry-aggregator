@@ -1,0 +1,1 @@
+docker-compose build telemetry; docker-compose up -d; docker-compose logs -f telemetry

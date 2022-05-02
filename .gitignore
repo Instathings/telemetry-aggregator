@@ -1,0 +1,4 @@
+dist
+node_modules
+telemetry.env
+mongo.env
